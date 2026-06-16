@@ -1,0 +1,21 @@
+# Build output
+/build/
+/Intermediates/
+*.obj
+*.exp
+*.ilk
+
+# Generated import library (machine-specific; regenerate with scripts/generate_import_lib.ps1)
+/external/
+/_ue4ss_implib/
+
+# xmake local state
+/.xmake/
+compile_commands.json
+
+# Editor / OS
+/.vs/
+/.vscode/
+*.user
+.DS_Store
+Thumbs.db
