@@ -7,7 +7,7 @@ Raids still trigger as normal — the attackers simply appear **outside** the wa
 have to path in, instead of spawning inside the base.
 
 This is a personal, single-base mod. It is intentionally **not** part of
-[PalModToolkit](https://github.com/inkognitofelix/PalModToolkit) (that's a general
+[PalModToolkit](https://github.com/incognitofelix/pal-mod-toolkit) (that's a general
 diagnostic kit); this mod's coordinate is specific to one base.
 
 ## How it works
